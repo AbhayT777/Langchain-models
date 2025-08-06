@@ -1,0 +1,19 @@
+#langchain core
+langchain
+langchain-core
+
+#OpenAI integration
+# langchain-OpenAI
+# OpenAI
+
+#hugging face integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+
+python-dotenv
+numpy
+scikit-learn
+
+sentence-transformers
